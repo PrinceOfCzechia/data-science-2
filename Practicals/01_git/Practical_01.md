@@ -44,6 +44,10 @@
          Year of study:
          Number of lectures today:
 
+69420. TEXT I MYSELF ADDED.
+   - Holy
+   - cow!
+
 # Other tools
 
 Useful (but not mandatory and not covered) tools for development - help with Git integration, virtual environment creation etc.
